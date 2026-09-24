@@ -1351,3 +1351,1577 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2026.09.24-02.42.53:377][403]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Moneda]
 [2026.09.24-02.42.53:383][403]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/BP_Moneda_Auto71DB1980C498AAE161C6E1CB0E964724D.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Autosaves/Game/Blueprints/BP_Moneda_Auto7.uasset'
 [2026.09.24-02.42.53:385][403]LogFileHelpers: Auto-saving content packages took 0.007
+[2026.09.24-03.57.46:762][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   7.13ms
+[2026.09.24-03.57.46:774][ 42]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Niveles/Mapa01' took 0.129
+[2026.09.24-03.57.46:779][ 42]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Moneda] ([2] browsable assets)...
+[2026.09.24-03.57.46:779][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Moneda]
+[2026.09.24-03.57.46:815][ 42]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/BP_Moneda_Auto88B22C1984FA31D4602DEAD958CDC8203.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Autosaves/Game/Blueprints/BP_Moneda_Auto8.uasset'
+[2026.09.24-03.57.46:817][ 42]LogFileHelpers: Auto-saving content packages took 0.043
+[2026.09.24-04.02.07:898][716]LogEditorTransaction: Undo Mover nodo
+[2026.09.24-04.02.08:356][730]LogEditorTransaction: Undo Crear enlace del Pin
+[2026.09.24-04.07.47:298][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2026.09.24-04.07.47:301][546]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Niveles/Mapa01' took 0.024
+[2026.09.24-04.07.47:302][546]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Moneda] ([2] browsable assets)...
+[2026.09.24-04.07.47:302][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Moneda]
+[2026.09.24-04.07.47:313][546]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/BP_Moneda_Auto91717B12A43F2C54199F391937479044D.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Autosaves/Game/Blueprints/BP_Moneda_Auto9.uasset'
+[2026.09.24-04.07.47:314][546]LogFileHelpers: Auto-saving content packages took 0.012
+[2026.09.24-04.08.15:423][ 72]LogSlate: Window 'Modificar tipo de variable' being destroyed
+[2026.09.24-04.08.21:098][401]LogSlate: Window 'Find in Blueprints' being destroyed
+[2026.09.24-04.08.21:106][401]LogSlate: Window 'Find in Blueprints' being destroyed
+[2026.09.24-04.17.47:981][362]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2026.09.24-04.17.47:988][362]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Niveles/Mapa01' took 0.030
+[2026.09.24-04.17.47:989][362]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Moneda] ([2] browsable assets)...
+[2026.09.24-04.17.47:989][362]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Moneda]
+[2026.09.24-04.17.47:997][362]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/BP_Moneda_Auto03B9EF508455C7A8407DB9386DA36F5CF.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Autosaves/Game/Blueprints/BP_Moneda_Auto0.uasset'
+[2026.09.24-04.17.48:001][362]LogFileHelpers: Auto-saving content packages took 0.012
+[2026.09.24-04.29.49:817][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.09.24-04.29.49:819][846]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Niveles/Mapa01' took 0.017
+[2026.09.24-04.29.49:819][846]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Moneda] ([2] browsable assets)...
+[2026.09.24-04.29.49:819][846]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Moneda]
+[2026.09.24-04.29.49:825][846]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/BP_Moneda_Auto1C0C3ECA54A7FBF8D60B7A49B12F69507.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Autosaves/Game/Blueprints/BP_Moneda_Auto1.uasset'
+[2026.09.24-04.29.49:827][846]LogFileHelpers: Auto-saving content packages took 0.008
+[2026.09.24-04.39.53:149][745]LogEditorTransaction: Undo Mover nodo
+[2026.09.24-04.39.59:558][113]LogEditorTransaction: Undo Mover nodo
+[2026.09.24-04.41.30:601][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2026.09.24-04.41.30:605][186]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Niveles/Mapa01' took 0.024
+[2026.09.24-04.41.30:605][186]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Moneda] ([2] browsable assets)...
+[2026.09.24-04.41.30:606][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Moneda]
+[2026.09.24-04.41.30:614][186]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/BP_Moneda_Auto2C5EFF8B1465383E9FE6586BC91E01BD5.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Autosaves/Game/Blueprints/BP_Moneda_Auto2.uasset'
+[2026.09.24-04.41.30:615][186]LogFileHelpers: Auto-saving content packages took 0.010
+[2026.09.24-04.42.56:096][469]LogEditorTransaction: Undo Crear enlace del Pin
+[2026.09.24-04.42.56:406][480]LogEditorTransaction: Undo Crear enlace del Pin
+[2026.09.24-04.43.49:617][399]LogEditorTransaction: Undo Crear enlace del Pin
+[2026.09.24-04.45.48:141][847]BlueprintLog: New page: Compilar BP_Moneda
+[2026.09.24-04.45.48:200][847]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2026.09.24-04.45.48:243][847]LogSlate: Took 0.001135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.09.24-04.45.48:861][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Moneda" FILE="../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Blueprints/BP_Moneda.uasset" SILENT=true
+[2026.09.24-04.45.48:871][882]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/BP_Moneda914477E14CD8C366DDC328966407B56B.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Blueprints/BP_Moneda.uasset'
+[2026.09.24-04.45.49:028][882]AssetCheck: New page: Asset Save: BP_Moneda
+[2026.09.24-04.45.49:028][882]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Moneda.BP_Moneda
+[2026.09.24-04.46.35:385][ 18]LogTemp: Repeating last play command: Selected Viewport
+[2026.09.24-04.46.35:406][ 18]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.24-04.46.35:413][ 18]PIE: New page: Sesión PIE (reproducción en el editor): Mapa01 (23 sep. 2026 17:46:35)
+[2026.09.24-04.46.35:415][ 18]LogPlayLevel: Creating play world package: /Game/Niveles/UEDPIE_0_Mapa01
+[2026.09.24-04.46.35:433][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015988s)
+[2026.09.24-04.46.35:463][ 18]LogAIModule: Creating AISystem for world Mapa01
+[2026.09.24-04.46.35:468][ 18]LogPlayLevel: PIE: World Init took: (0.035030s)
+[2026.09.24-04.46.35:469][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Niveles/Mapa01.Mapa01 to /Game/Niveles/UEDPIE_0_Mapa01.Mapa01 (0.052816s)
+[2026.09.24-04.46.35:484][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.09.24-04.46.35:494][ 18]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.09.24-04.46.35:497][ 18]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.24-04.46.35:497][ 18]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.24-04.46.35:497][ 18]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.24-04.46.35:497][ 18]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.24-04.46.35:497][ 18]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.09.24-04.46.35:497][ 18]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.24-04.46.35:497][ 18]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.09.24-04.46.35:497][ 18]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.24-04.46.35:499][ 18]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.24-04.46.35:499][ 18]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.24-04.46.35:499][ 18]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.24-04.46.35:499][ 18]LogAudioMixer: Display: Initializing audio mixer.
+[2026.09.24-04.46.35:509][ 18]LogAudioMixer: Display: 0: FrontLeft
+[2026.09.24-04.46.35:509][ 18]LogAudioMixer: Display: 1: FrontRight
+[2026.09.24-04.46.35:580][ 18]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2026.09.24-04.46.35:583][ 18]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.24-04.46.35:583][ 18]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.24-04.46.35:583][ 18]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.24-04.46.35:589][ 18]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2026.09.24-04.46.35:589][ 18]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2026.09.24-04.46.35:589][ 18]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2026.09.24-04.46.35:591][ 18]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2026.09.24-04.46.35:591][ 18]LogInit: FAudioDevice initialized.
+[2026.09.24-04.46.35:591][ 18]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2026.09.24-04.46.35:591][ 18]LogAudio: Display: Audio Device (ID: 5) registered with world 'Mapa01'.
+[2026.09.24-04.46.35:619][ 18]LogLoad: Game class is 'GameMode2D_C'
+[2026.09.24-04.46.35:646][ 18]LogWorld: Bringing World /Game/Niveles/UEDPIE_0_Mapa01.Mapa01 up for play (max tick rate 60) at 2026.09.23-22.46.35
+[2026.09.24-04.46.35:648][ 18]LogWorld: Bringing up level for play took: 0.022968
+[2026.09.24-04.46.35:653][ 18]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2026.09.24-04.46.35:680][ 18]PIE: El servidor ha iniciado la sesión
+[2026.09.24-04.46.35:681][ 18]PIE: Play in editor total start time 0.286 seconds.
+[2026.09.24-04.46.44:257][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.24-04.46.44:257][529]LogWorld: BeginTearingDown for /Game/Niveles/UEDPIE_0_Mapa01
+[2026.09.24-04.46.44:259][529]LogWorld: UWorld::CleanupWorld for Mapa01, bSessionEnded=true, bCleanupResources=true
+[2026.09.24-04.46.44:261][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.24-04.46.44:279][529]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.24-04.46.44:286][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.24-04.46.44:303][529]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.09.24-04.46.44:304][529]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.09.24-04.46.44:306][529]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.09.24-04.46.44:308][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.24-04.46.44:317][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.09.24-04.46.44:349][530]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2026.09.24-04.46.45:787][614]LogEditorViewport: Clicking Background
+[2026.09.24-04.51.29:030][837]BlueprintLog: New page: Compilar BP_Moneda
+[2026.09.24-04.51.29:066][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.09.24-04.51.29:538][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Moneda" FILE="../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Blueprints/BP_Moneda.uasset" SILENT=true
+[2026.09.24-04.51.29:547][861]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/BP_MonedaCAF112914E22B695FCAAD4B5E2859E3B.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Blueprints/BP_Moneda.uasset'
+[2026.09.24-04.51.29:563][861]AssetCheck: New page: Asset Save: BP_Moneda
+[2026.09.24-04.51.29:563][861]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Moneda.BP_Moneda
+[2026.09.24-04.52.15:468][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.09.24-04.52.15:487][503]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mapa01_Auto3DEFF4CD3486EDE1968AC9CBC51864F35.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Autosaves/Game/Niveles/Mapa01_Auto3.umap'
+[2026.09.24-04.52.15:489][503]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Niveles/Mapa01' took 0.036
+[2026.09.24-04.52.15:489][503]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.036
+[2026.09.24-04.58.58:740][491]Cmd: TRANSACTION UNDO
+[2026.09.24-04.58.58:740][491]LogEditorTransaction: Undo Set Scale
+[2026.09.24-04.59.52:635][797]LogTemp: Repeating last play command: Selected Viewport
+[2026.09.24-04.59.52:644][797]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.24-04.59.52:644][797]PIE: New page: Sesión PIE (reproducción en el editor): Mapa01 (23 sep. 2026 17:59:52)
+[2026.09.24-04.59.52:644][797]LogPlayLevel: Creating play world package: /Game/Niveles/UEDPIE_0_Mapa01
+[2026.09.24-04.59.52:647][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002670s)
+[2026.09.24-04.59.52:648][797]LogAIModule: Creating AISystem for world Mapa01
+[2026.09.24-04.59.52:648][797]LogPlayLevel: PIE: World Init took: (0.001316s)
+[2026.09.24-04.59.52:648][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Niveles/Mapa01.Mapa01 to /Game/Niveles/UEDPIE_0_Mapa01.Mapa01 (0.004117s)
+[2026.09.24-04.59.52:666][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.09.24-04.59.52:670][797]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.09.24-04.59.52:671][797]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.24-04.59.52:671][797]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.24-04.59.52:671][797]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.24-04.59.52:671][797]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.24-04.59.52:671][797]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.09.24-04.59.52:671][797]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.24-04.59.52:671][797]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.09.24-04.59.52:671][797]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.24-04.59.52:671][797]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.24-04.59.52:671][797]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.24-04.59.52:671][797]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.24-04.59.52:671][797]LogAudioMixer: Display: Initializing audio mixer.
+[2026.09.24-04.59.52:675][797]LogAudioMixer: Display: 0: FrontLeft
+[2026.09.24-04.59.52:675][797]LogAudioMixer: Display: 1: FrontRight
+[2026.09.24-04.59.52:745][797]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2026.09.24-04.59.52:746][797]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.24-04.59.52:746][797]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.24-04.59.52:746][797]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.24-04.59.52:747][797]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2026.09.24-04.59.52:747][797]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2026.09.24-04.59.52:747][797]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2026.09.24-04.59.52:749][797]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2026.09.24-04.59.52:749][797]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2026.09.24-04.59.52:749][797]LogInit: FAudioDevice initialized.
+[2026.09.24-04.59.52:749][797]LogAudio: Display: Audio Device (ID: 6) registered with world 'Mapa01'.
+[2026.09.24-04.59.52:759][797]LogLoad: Game class is 'GameMode2D_C'
+[2026.09.24-04.59.52:762][797]LogWorld: Bringing World /Game/Niveles/UEDPIE_0_Mapa01.Mapa01 up for play (max tick rate 60) at 2026.09.23-22.59.52
+[2026.09.24-04.59.52:762][797]LogWorld: Bringing up level for play took: 0.002394
+[2026.09.24-04.59.52:762][797]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2026.09.24-04.59.52:765][797]PIE: El servidor ha iniciado la sesión
+[2026.09.24-04.59.52:766][797]PIE: Play in editor total start time 0.125 seconds.
+[2026.09.24-05.00.04:224][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.24-05.00.04:224][444]LogWorld: BeginTearingDown for /Game/Niveles/UEDPIE_0_Mapa01
+[2026.09.24-05.00.04:224][444]LogWorld: UWorld::CleanupWorld for Mapa01, bSessionEnded=true, bCleanupResources=true
+[2026.09.24-05.00.04:225][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.24-05.00.04:238][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.24-05.00.04:244][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.24-05.00.04:256][444]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.09.24-05.00.04:256][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.09.24-05.00.04:257][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.09.24-05.00.04:258][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.24-05.00.04:261][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.09.24-05.00.04:297][446]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2026.09.24-05.00.36:052][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Moneda" FILE="../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Blueprints/BP_Moneda.uasset" SILENT=true
+[2026.09.24-05.00.36:062][683]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/BP_Moneda3BF184CE4B22BD5D817E96A67B4AD19D.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Blueprints/BP_Moneda.uasset'
+[2026.09.24-05.00.36:082][683]AssetCheck: New page: Asset Save: BP_Moneda
+[2026.09.24-05.00.36:082][683]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Moneda.BP_Moneda
+[2026.09.24-05.02.27:316][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.09.24-05.02.27:329][375]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mapa01_Auto4BB1243864694E9793466A4AF5A499217.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Autosaves/Game/Niveles/Mapa01_Auto4.umap'
+[2026.09.24-05.02.27:331][375]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Niveles/Mapa01' took 0.030
+[2026.09.24-05.02.27:331][375]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
+[2026.09.24-05.08.25:764][404]BlueprintLog: New page: Compilar BP_Moneda
+[2026.09.24-05.08.25:799][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.09.24-05.08.26:246][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Moneda" FILE="../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Blueprints/BP_Moneda.uasset" SILENT=true
+[2026.09.24-05.08.26:257][427]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/BP_Moneda9BEB6BC14872780BD0A42AB41E0E928E.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Blueprints/BP_Moneda.uasset'
+[2026.09.24-05.08.26:275][427]AssetCheck: New page: Asset Save: BP_Moneda
+[2026.09.24-05.08.26:275][427]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Moneda.BP_Moneda
+[2026.09.24-05.08.32:357][580]LogTemp: Repeating last play command: Selected Viewport
+[2026.09.24-05.08.32:365][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.24-05.08.32:365][580]PIE: New page: Sesión PIE (reproducción en el editor): Mapa01 (23 sep. 2026 18:08:32)
+[2026.09.24-05.08.32:365][580]LogPlayLevel: Creating play world package: /Game/Niveles/UEDPIE_0_Mapa01
+[2026.09.24-05.08.32:368][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002176s)
+[2026.09.24-05.08.32:369][580]LogAIModule: Creating AISystem for world Mapa01
+[2026.09.24-05.08.32:369][580]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2026.09.24-05.08.32:369][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Niveles/Mapa01.Mapa01 to /Game/Niveles/UEDPIE_0_Mapa01.Mapa01 (0.003207s)
+[2026.09.24-05.08.32:384][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.09.24-05.08.32:385][580]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.09.24-05.08.32:385][580]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.24-05.08.32:385][580]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.24-05.08.32:385][580]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.24-05.08.32:386][580]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.24-05.08.32:386][580]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.09.24-05.08.32:386][580]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.24-05.08.32:386][580]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.09.24-05.08.32:386][580]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.24-05.08.32:386][580]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.24-05.08.32:386][580]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.24-05.08.32:386][580]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.24-05.08.32:386][580]LogAudioMixer: Display: Initializing audio mixer.
+[2026.09.24-05.08.32:390][580]LogAudioMixer: Display: 0: FrontLeft
+[2026.09.24-05.08.32:390][580]LogAudioMixer: Display: 1: FrontRight
+[2026.09.24-05.08.32:471][580]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2026.09.24-05.08.32:471][580]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.24-05.08.32:471][580]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.24-05.08.32:471][580]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.24-05.08.32:472][580]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2026.09.24-05.08.32:472][580]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2026.09.24-05.08.32:472][580]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2026.09.24-05.08.32:473][580]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2026.09.24-05.08.32:473][580]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2026.09.24-05.08.32:473][580]LogInit: FAudioDevice initialized.
+[2026.09.24-05.08.32:473][580]LogAudio: Display: Audio Device (ID: 7) registered with world 'Mapa01'.
+[2026.09.24-05.08.32:482][580]LogLoad: Game class is 'GameMode2D_C'
+[2026.09.24-05.08.32:485][580]LogWorld: Bringing World /Game/Niveles/UEDPIE_0_Mapa01.Mapa01 up for play (max tick rate 60) at 2026.09.23-23.08.32
+[2026.09.24-05.08.32:485][580]LogWorld: Bringing up level for play took: 0.002168
+[2026.09.24-05.08.32:485][580]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2026.09.24-05.08.32:489][580]PIE: El servidor ha iniciado la sesión
+[2026.09.24-05.08.32:490][580]PIE: Play in editor total start time 0.126 seconds.
+[2026.09.24-05.08.32:491][580]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.32:507][581]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.32:522][582]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.32:539][583]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.32:556][584]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.32:572][585]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.32:589][586]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.32:605][587]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.32:622][588]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.32:639][589]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.32:655][590]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.32:672][591]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.32:689][592]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.32:705][593]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.32:723][594]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.32:738][595]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.32:755][596]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.32:773][597]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.32:788][598]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.32:805][599]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.32:822][600]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.32:839][601]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.32:856][602]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.32:872][603]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.32:889][604]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.32:906][605]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.32:922][606]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.32:939][607]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.32:956][608]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.32:972][609]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.32:989][610]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:005][611]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:022][612]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:039][613]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:056][614]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:072][615]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:088][616]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:106][617]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:122][618]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:138][619]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:155][620]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:172][621]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:189][622]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:206][623]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:222][624]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:239][625]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:255][626]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:272][627]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:288][628]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:306][629]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:322][630]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:338][631]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:356][632]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:372][633]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:388][634]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:406][635]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:422][636]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:439][637]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:456][638]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:472][639]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:489][640]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:505][641]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:521][642]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:539][643]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:555][644]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:572][645]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:589][646]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:605][647]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:622][648]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:639][649]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:655][650]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:671][651]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:689][652]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:706][653]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:722][654]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:738][655]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:755][656]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:772][657]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:789][658]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:806][659]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:822][660]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:839][661]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:855][662]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:872][663]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:889][664]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:906][665]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:922][666]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:939][667]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:956][668]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:972][669]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.33:989][670]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:006][671]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:022][672]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:039][673]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:055][674]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:072][675]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:088][676]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:105][677]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:122][678]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:138][679]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:160][680]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:172][681]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:188][682]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:205][683]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:222][684]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:239][685]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:255][686]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:273][687]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:288][688]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:305][689]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:322][690]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:338][691]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:355][692]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:371][693]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:389][694]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:405][695]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:422][696]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:438][697]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:455][698]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:472][699]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:489][700]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:505][701]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:522][702]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:539][703]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:555][704]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:572][705]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:589][706]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:606][707]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:622][708]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:638][709]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:655][710]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:672][711]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:688][712]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:706][713]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:722][714]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:739][715]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:755][716]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:772][717]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:789][718]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:805][719]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:822][720]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:838][721]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:855][722]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:873][723]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:889][724]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:905][725]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:922][726]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:939][727]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:955][728]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:972][729]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.34:988][730]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:005][731]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:022][732]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:038][733]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:055][734]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:072][735]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:089][736]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:105][737]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:122][738]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:139][739]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:156][740]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:172][741]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:189][742]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:205][743]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:222][744]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:238][745]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:255][746]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:272][747]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:289][748]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:306][749]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:322][750]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:339][751]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:355][752]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:372][753]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:389][754]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:406][755]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:422][756]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:439][757]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:455][758]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:472][759]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:489][760]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:505][761]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:522][762]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:539][763]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:555][764]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:572][765]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:588][766]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:605][767]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:622][768]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:639][769]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:655][770]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:672][771]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:689][772]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:706][773]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:722][774]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:739][775]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:755][776]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:772][777]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:788][778]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:806][779]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:822][780]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:839][781]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:856][782]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:872][783]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:889][784]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:905][785]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:921][786]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:938][787]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:955][788]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:973][789]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.35:988][790]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:005][791]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:022][792]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:038][793]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:056][794]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:072][795]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:089][796]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:105][797]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:122][798]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:139][799]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:155][800]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:172][801]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:189][802]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:206][803]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:222][804]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:239][805]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:255][806]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:272][807]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:288][808]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:305][809]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:322][810]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:338][811]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:355][812]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:372][813]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:389][814]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:405][815]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:422][816]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:439][817]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:455][818]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:472][819]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:489][820]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:505][821]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:522][822]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:538][823]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:555][824]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:572][825]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:589][826]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:605][827]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:622][828]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:639][829]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:655][830]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:672][831]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:689][832]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:706][833]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:722][834]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:738][835]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:756][836]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:772][837]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:789][838]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:805][839]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:822][840]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:839][841]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:855][842]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:872][843]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:889][844]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:906][845]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:922][846]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:938][847]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:955][848]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:972][849]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.36:989][850]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.37:005][851]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.37:023][852]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.37:038][853]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.37:055][854]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.37:072][855]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.37:088][856]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.37:106][857]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.37:122][858]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.37:139][859]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.37:155][860]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.37:172][861]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.37:188][862]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.37:206][863]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.37:222][864]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.37:239][865]LogBlueprintUserMessages: [BP_Moneda_2] Funciona
+[2026.09.24-05.08.37:271][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.24-05.08.37:271][865]LogWorld: BeginTearingDown for /Game/Niveles/UEDPIE_0_Mapa01
+[2026.09.24-05.08.37:271][865]LogWorld: UWorld::CleanupWorld for Mapa01, bSessionEnded=true, bCleanupResources=true
+[2026.09.24-05.08.37:272][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.24-05.08.37:285][865]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.24-05.08.37:290][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.24-05.08.37:304][865]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.09.24-05.08.37:304][865]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.09.24-05.08.37:305][865]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.09.24-05.08.37:307][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.24-05.08.37:310][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.09.24-05.08.37:342][866]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2026.09.24-05.12.32:978][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.09.24-05.12.32:997][581]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mapa01_Auto5D52F6D7F436C4B95951B57B803454F41.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Autosaves/Game/Niveles/Mapa01_Auto5.umap'
+[2026.09.24-05.12.33:003][581]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Niveles/Mapa01' took 0.056
+[2026.09.24-05.12.33:003][581]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.056
+[2026.09.24-05.12.33:003][581]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Moneda] ([2] browsable assets)...
+[2026.09.24-05.12.33:003][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Moneda]
+[2026.09.24-05.12.33:022][581]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/BP_Moneda_Auto5B70AD830444638D657A3038E055EDE94.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Autosaves/Game/Blueprints/BP_Moneda_Auto5.uasset'
+[2026.09.24-05.12.33:025][581]LogFileHelpers: Auto-saving content packages took 0.022
+[2026.09.24-05.18.42:434][ 47]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GameMode2D.GameMode2D
+[2026.09.24-05.19.29:244][439]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.09.24-05.19.29:244][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.24-05.19.29:305][439]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GameMode2D.GameMode2D
+[2026.09.24-05.20.21:265][206]BlueprintLog: New page: Compilar GameMode2D
+[2026.09.24-05.20.21:309][206]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2026.09.24-05.20.49:312][358]LogEditorTransaction: Undo Mover nodo
+[2026.09.24-05.20.50:162][399]LogEditorTransaction: Undo Cambiar el nombre de la función
+[2026.09.24-05.20.52:465][535]LogEditorTransaction: Undo Añadir Función nueva
+[2026.09.24-05.23.18:411][972]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.09.24-05.23.18:469][972]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.09.24-05.26.52:906][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2026.09.24-05.26.52:921][246]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mapa01_Auto66C709D7644C571FB53BB4AB70D68D577.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Autosaves/Game/Niveles/Mapa01_Auto6.umap'
+[2026.09.24-05.26.52:924][246]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Niveles/Mapa01' took 0.047
+[2026.09.24-05.26.52:924][246]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.047
+[2026.09.24-05.26.52:926][246]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GameMode2D] ([4] browsable assets)...
+[2026.09.24-05.26.52:926][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GameMode2D]
+[2026.09.24-05.26.52:932][246]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/GameMode2D_Auto6C92DD8C4401EEAE8600C5982FF80B9B5.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Autosaves/Game/Blueprints/GameMode2D_Auto6.uasset'
+[2026.09.24-05.26.52:933][246]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Moneda] ([2] browsable assets)...
+[2026.09.24-05.26.52:933][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Moneda]
+[2026.09.24-05.26.52:947][246]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/BP_Moneda_Auto68C57B052414E6B54044BED83C42C9297.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Autosaves/Game/Blueprints/BP_Moneda_Auto6.uasset'
+[2026.09.24-05.26.52:948][246]LogFileHelpers: Auto-saving content packages took 0.022
+[2026.09.24-05.31.13:231][952]BlueprintLog: New page: Compilar BP_Moneda
+[2026.09.24-05.31.13:235][952]LogBlueprint: Error: [AssetLog] C:\Users\larse\OneDrive\Documentos\Unreal Projects\Terraformer\Content\Blueprints\BP_Moneda.uasset: [Compiler] This blueprint (self) is not a GameMode2D_C, therefore ' Meta ' must have a connection.
+[2026.09.24-05.31.13:296][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2026.09.24-05.31.30:063][935]BlueprintLog: New page: Compilar BP_Moneda
+[2026.09.24-05.31.30:068][935]LogBlueprint: Warning: [AssetLog] C:\Users\larse\OneDrive\Documentos\Unreal Projects\Terraformer\Content\Blueprints\BP_Moneda.uasset: [Compiler] Could not find the function 'SumarMoneda' called from  Sumar Moneda
+[2026.09.24-05.31.30:101][935]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2026.09.24-05.31.35:502][252]LogEditorTransaction: Undo Crear enlace del Pin
+[2026.09.24-05.34.45:838][730]LogEditorTransaction: Undo Añadir nodo
+[2026.09.24-05.34.46:235][744]LogEditorTransaction: Undo Añadir nodo
+[2026.09.24-05.34.46:850][777]LogEditorTransaction: Undo Delete current selection
+[2026.09.24-05.36.55:276][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2026.09.24-05.36.55:287][769]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mapa01_Auto7E7C106C14C4F231A4F33D5A923DB5810.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Autosaves/Game/Niveles/Mapa01_Auto7.umap'
+[2026.09.24-05.36.55:288][769]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Niveles/Mapa01' took 0.032
+[2026.09.24-05.36.55:289][769]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
+[2026.09.24-05.36.55:289][769]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Moneda] ([4] browsable assets)...
+[2026.09.24-05.36.55:289][769]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Moneda]
+[2026.09.24-05.36.55:300][769]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/BP_Moneda_Auto7E739F32849F86CA6E7F3A28B735D7926.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Autosaves/Game/Blueprints/BP_Moneda_Auto7.uasset'
+[2026.09.24-05.36.55:301][769]LogFileHelpers: Auto-saving content packages took 0.012
+[2026.09.24-05.37.41:488][816]BlueprintLog: New page: Compilar BP_Moneda
+[2026.09.24-05.37.41:526][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.09.24-05.38.27:160][614]BlueprintLog: New page: Compilar BP_Moneda
+[2026.09.24-05.38.27:165][614]LogBlueprint: Error: [AssetLog] C:\Users\larse\OneDrive\Documentos\Unreal Projects\Terraformer\Content\Blueprints\BP_Moneda.uasset: [Compiler] This blueprint (self) is not a GameMode2D_C, therefore ' Meta ' must have a connection.
+[2026.09.24-05.38.27:200][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.09.24-05.39.04:675][582]BlueprintLog: New page: Compilar BP_Moneda
+[2026.09.24-05.39.04:679][582]LogBlueprint: Warning: [AssetLog] C:\Users\larse\OneDrive\Documentos\Unreal Projects\Terraformer\Content\Blueprints\BP_Moneda.uasset: [Compiler] Could not find the function 'SumarMoneda' called from  Sumar Moneda
+[2026.09.24-05.39.04:709][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.09.24-05.39.19:177][750]BlueprintLog: New page: Compilar BP_Moneda
+[2026.09.24-05.39.19:183][750]LogBlueprint: Warning: [AssetLog] C:\Users\larse\OneDrive\Documentos\Unreal Projects\Terraformer\Content\Blueprints\BP_Moneda.uasset: [Compiler] Could not find the function 'SumarMoneda' called from  Sumar Moneda
+[2026.09.24-05.39.19:219][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.09.24-05.40.23:142][559]BlueprintLog: New page: Compilar GameMode2D
+[2026.09.24-05.40.23:175][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.09.24-05.40.23:873][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode2D" FILE="../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Blueprints/GameMode2D.uasset" SILENT=true
+[2026.09.24-05.40.23:879][599]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/GameMode2D81FD6F9C412E7A8CECF826BE3F03D665.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Blueprints/GameMode2D.uasset'
+[2026.09.24-05.40.23:902][599]AssetCheck: New page: Asset Save: GameMode2D
+[2026.09.24-05.40.23:902][599]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GameMode2D.GameMode2D
+[2026.09.24-05.40.28:040][840]BlueprintLog: New page: Compilar BP_Moneda
+[2026.09.24-05.40.28:077][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.09.24-05.40.29:682][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Moneda" FILE="../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Blueprints/BP_Moneda.uasset" SILENT=true
+[2026.09.24-05.40.29:694][931]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/BP_Moneda025D8FAF40151FDF9BE8CFBB379E14B4.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Blueprints/BP_Moneda.uasset'
+[2026.09.24-05.40.29:711][931]AssetCheck: New page: Asset Save: BP_Moneda
+[2026.09.24-05.40.29:711][931]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Moneda.BP_Moneda
+[2026.09.24-05.40.52:605][230]LogTemp: Repeating last play command: Selected Viewport
+[2026.09.24-05.40.52:615][230]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.24-05.40.52:615][230]PIE: New page: Sesión PIE (reproducción en el editor): Mapa01 (23 sep. 2026 18:40:52)
+[2026.09.24-05.40.52:643][230]LogPlayLevel: Creating play world package: /Game/Niveles/UEDPIE_0_Mapa01
+[2026.09.24-05.40.52:646][230]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003177s)
+[2026.09.24-05.40.52:647][230]LogAIModule: Creating AISystem for world Mapa01
+[2026.09.24-05.40.52:648][230]LogPlayLevel: PIE: World Init took: (0.001333s)
+[2026.09.24-05.40.52:648][230]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Niveles/Mapa01.Mapa01 to /Game/Niveles/UEDPIE_0_Mapa01.Mapa01 (0.004705s)
+[2026.09.24-05.40.52:663][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.09.24-05.40.52:679][230]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.09.24-05.40.52:679][230]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.24-05.40.52:679][230]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.24-05.40.52:679][230]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.24-05.40.52:679][230]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.24-05.40.52:679][230]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.09.24-05.40.52:679][230]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.24-05.40.52:679][230]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.09.24-05.40.52:679][230]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.24-05.40.52:679][230]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.24-05.40.52:679][230]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.24-05.40.52:679][230]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.24-05.40.52:679][230]LogAudioMixer: Display: Initializing audio mixer.
+[2026.09.24-05.40.52:684][230]LogAudioMixer: Display: 0: FrontLeft
+[2026.09.24-05.40.52:684][230]LogAudioMixer: Display: 1: FrontRight
+[2026.09.24-05.40.52:755][230]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2026.09.24-05.40.52:755][230]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.24-05.40.52:755][230]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.24-05.40.52:755][230]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.24-05.40.52:757][230]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2026.09.24-05.40.52:757][230]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2026.09.24-05.40.52:757][230]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2026.09.24-05.40.52:759][230]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2026.09.24-05.40.52:759][230]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2026.09.24-05.40.52:759][230]LogInit: FAudioDevice initialized.
+[2026.09.24-05.40.52:759][230]LogAudio: Display: Audio Device (ID: 8) registered with world 'Mapa01'.
+[2026.09.24-05.40.52:774][230]LogLoad: Game class is 'GameMode2D_C'
+[2026.09.24-05.40.52:779][230]LogWorld: Bringing World /Game/Niveles/UEDPIE_0_Mapa01.Mapa01 up for play (max tick rate 60) at 2026.09.23-23.40.52
+[2026.09.24-05.40.52:779][230]LogWorld: Bringing up level for play took: 0.004609
+[2026.09.24-05.40.52:779][230]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2026.09.24-05.40.52:783][230]PIE: El servidor ha iniciado la sesión
+[2026.09.24-05.40.52:784][230]PIE: Play in editor total start time 0.172 seconds.
+[2026.09.24-05.41.05:965][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.24-05.41.05:965][ 18]LogWorld: BeginTearingDown for /Game/Niveles/UEDPIE_0_Mapa01
+[2026.09.24-05.41.05:965][ 18]LogWorld: UWorld::CleanupWorld for Mapa01, bSessionEnded=true, bCleanupResources=true
+[2026.09.24-05.41.05:966][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.24-05.41.05:980][ 18]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.24-05.41.05:987][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.24-05.41.06:002][ 18]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.09.24-05.41.06:002][ 18]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.09.24-05.41.06:003][ 18]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.09.24-05.41.06:005][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.24-05.41.06:008][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.09.24-05.41.06:033][ 19]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2026.09.24-05.41.07:403][ 98]LogTemp: Repeating last play command: Selected Viewport
+[2026.09.24-05.41.07:410][ 98]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.24-05.41.07:410][ 98]PIE: New page: Sesión PIE (reproducción en el editor): Mapa01 (23 sep. 2026 18:41:07)
+[2026.09.24-05.41.07:410][ 98]LogPlayLevel: Creating play world package: /Game/Niveles/UEDPIE_0_Mapa01
+[2026.09.24-05.41.07:414][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002851s)
+[2026.09.24-05.41.07:414][ 98]LogAIModule: Creating AISystem for world Mapa01
+[2026.09.24-05.41.07:415][ 98]LogPlayLevel: PIE: World Init took: (0.001307s)
+[2026.09.24-05.41.07:415][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Niveles/Mapa01.Mapa01 to /Game/Niveles/UEDPIE_0_Mapa01.Mapa01 (0.004275s)
+[2026.09.24-05.41.07:429][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.09.24-05.41.07:430][ 98]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.09.24-05.41.07:430][ 98]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.24-05.41.07:430][ 98]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.24-05.41.07:430][ 98]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.24-05.41.07:430][ 98]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.24-05.41.07:430][ 98]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.09.24-05.41.07:430][ 98]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.24-05.41.07:430][ 98]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.09.24-05.41.07:430][ 98]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.24-05.41.07:430][ 98]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.24-05.41.07:432][ 98]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.24-05.41.07:432][ 98]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.24-05.41.07:432][ 98]LogAudioMixer: Display: Initializing audio mixer.
+[2026.09.24-05.41.07:434][ 98]LogAudioMixer: Display: 0: FrontLeft
+[2026.09.24-05.41.07:434][ 98]LogAudioMixer: Display: 1: FrontRight
+[2026.09.24-05.41.07:502][ 98]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2026.09.24-05.41.07:502][ 98]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.24-05.41.07:502][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.24-05.41.07:502][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.24-05.41.07:503][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2026.09.24-05.41.07:503][ 98]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2026.09.24-05.41.07:503][ 98]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2026.09.24-05.41.07:504][ 98]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2026.09.24-05.41.07:504][ 98]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2026.09.24-05.41.07:504][ 98]LogInit: FAudioDevice initialized.
+[2026.09.24-05.41.07:504][ 98]LogAudio: Display: Audio Device (ID: 9) registered with world 'Mapa01'.
+[2026.09.24-05.41.07:516][ 98]LogLoad: Game class is 'GameMode2D_C'
+[2026.09.24-05.41.07:518][ 98]LogWorld: Bringing World /Game/Niveles/UEDPIE_0_Mapa01.Mapa01 up for play (max tick rate 60) at 2026.09.23-23.41.07
+[2026.09.24-05.41.07:518][ 98]LogWorld: Bringing up level for play took: 0.001712
+[2026.09.24-05.41.07:518][ 98]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2026.09.24-05.41.07:522][ 98]PIE: El servidor ha iniciado la sesión
+[2026.09.24-05.41.07:523][ 98]PIE: Play in editor total start time 0.114 seconds.
+[2026.09.24-05.41.10:285][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.24-05.41.10:285][262]LogWorld: BeginTearingDown for /Game/Niveles/UEDPIE_0_Mapa01
+[2026.09.24-05.41.10:286][262]LogWorld: UWorld::CleanupWorld for Mapa01, bSessionEnded=true, bCleanupResources=true
+[2026.09.24-05.41.10:286][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.24-05.41.10:299][262]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.24-05.41.10:304][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.24-05.41.10:319][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.24-05.41.10:319][262]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.09.24-05.41.10:320][262]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.09.24-05.41.10:327][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.09.24-05.41.10:399][264]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2026.09.24-05.41.42:396][181]Cmd: EDIT COPY
+[2026.09.24-05.41.42:805][205]Cmd: EDIT PASTE
+[2026.09.24-05.41.49:938][631]LogEditorViewport: Clicking on Actor (LMB): BP_Moneda_C (BP_Moneda)
+[2026.09.24-05.41.57:605][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.09.24-05.41.57:618][ 86]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mapa01298730354EAA57E586C7C0A8609DFFEB.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Niveles/Mapa01.umap'
+[2026.09.24-05.41.57:758][ 86]AssetCheck: New page: Asset Save: Mapa01
+[2026.09.24-05.41.57:758][ 86]LogContentValidation: Display: Validating World /Game/Niveles/Mapa01.Mapa01
+[2026.09.24-05.41.58:805][149]LogTemp: Repeating last play command: Selected Viewport
+[2026.09.24-05.41.58:812][149]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.24-05.41.58:812][149]PIE: New page: Sesión PIE (reproducción en el editor): Mapa01 (23 sep. 2026 18:41:58)
+[2026.09.24-05.41.58:812][149]LogPlayLevel: Creating play world package: /Game/Niveles/UEDPIE_0_Mapa01
+[2026.09.24-05.41.58:815][149]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002718s)
+[2026.09.24-05.41.58:816][149]LogAIModule: Creating AISystem for world Mapa01
+[2026.09.24-05.41.58:816][149]LogPlayLevel: PIE: World Init took: (0.000868s)
+[2026.09.24-05.41.58:816][149]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Niveles/Mapa01.Mapa01 to /Game/Niveles/UEDPIE_0_Mapa01.Mapa01 (0.003721s)
+[2026.09.24-05.41.58:834][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.09.24-05.41.58:838][149]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.09.24-05.41.58:839][149]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.24-05.41.58:839][149]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.24-05.41.58:839][149]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.24-05.41.58:839][149]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.24-05.41.58:839][149]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.09.24-05.41.58:839][149]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.24-05.41.58:839][149]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.09.24-05.41.58:839][149]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.24-05.41.58:839][149]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.24-05.41.58:839][149]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.24-05.41.58:839][149]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.24-05.41.58:839][149]LogAudioMixer: Display: Initializing audio mixer.
+[2026.09.24-05.41.58:843][149]LogAudioMixer: Display: 0: FrontLeft
+[2026.09.24-05.41.58:843][149]LogAudioMixer: Display: 1: FrontRight
+[2026.09.24-05.41.58:916][149]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2026.09.24-05.41.58:917][149]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.24-05.41.58:917][149]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.24-05.41.58:917][149]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.24-05.41.58:917][149]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2026.09.24-05.41.58:917][149]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2026.09.24-05.41.58:917][149]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2026.09.24-05.41.58:918][149]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2026.09.24-05.41.58:918][149]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2026.09.24-05.41.58:918][149]LogInit: FAudioDevice initialized.
+[2026.09.24-05.41.58:918][149]LogAudio: Display: Audio Device (ID: 10) registered with world 'Mapa01'.
+[2026.09.24-05.41.58:935][149]LogLoad: Game class is 'GameMode2D_C'
+[2026.09.24-05.41.58:937][149]LogWorld: Bringing World /Game/Niveles/UEDPIE_0_Mapa01.Mapa01 up for play (max tick rate 60) at 2026.09.23-23.41.58
+[2026.09.24-05.41.58:938][149]LogWorld: Bringing up level for play took: 0.002465
+[2026.09.24-05.41.58:939][149]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2026.09.24-05.41.58:942][149]PIE: El servidor ha iniciado la sesión
+[2026.09.24-05.41.58:943][149]PIE: Play in editor total start time 0.134 seconds.
+[2026.09.24-05.42.02:335][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.24-05.42.02:335][350]LogWorld: BeginTearingDown for /Game/Niveles/UEDPIE_0_Mapa01
+[2026.09.24-05.42.02:336][350]LogWorld: UWorld::CleanupWorld for Mapa01, bSessionEnded=true, bCleanupResources=true
+[2026.09.24-05.42.02:336][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.24-05.42.02:349][350]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.24-05.42.02:355][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.24-05.42.02:371][350]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.09.24-05.42.02:371][350]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.09.24-05.42.02:373][350]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.09.24-05.42.02:380][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.24-05.42.02:382][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.09.24-05.42.02:410][351]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2026.09.24-05.44.33:711][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Moneda" FILE="../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Blueprints/BP_Moneda.uasset" SILENT=true
+[2026.09.24-05.44.33:723][138]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/BP_MonedaE6D93142419E59D133A3B5B5AC2D5F36.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Blueprints/BP_Moneda.uasset'
+[2026.09.24-05.44.33:740][138]AssetCheck: New page: Asset Save: BP_Moneda
+[2026.09.24-05.44.33:740][138]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Moneda.BP_Moneda
+[2026.09.24-05.44.34:787][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode2D" FILE="../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Blueprints/GameMode2D.uasset" SILENT=true
+[2026.09.24-05.44.34:792][199]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/GameMode2D031D07C0411A1A14C4F385B299256FC7.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Blueprints/GameMode2D.uasset'
+[2026.09.24-05.44.34:809][199]AssetCheck: New page: Asset Save: GameMode2D
+[2026.09.24-05.44.34:809][199]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GameMode2D.GameMode2D
+[2026.09.24-05.45.20:959][253]BlueprintLog: New page: Compilar GameMode2D
+[2026.09.24-05.45.20:999][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.09.24-05.46.01:812][867]BlueprintLog: New page: Compilar GameMode2D
+[2026.09.24-05.46.01:840][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.09.24-05.52.21:516][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2026.09.24-05.52.21:529][360]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mapa01_Auto8AFC85D0D4EDCB9AF8514199FE84182CD.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Autosaves/Game/Niveles/Mapa01_Auto8.umap'
+[2026.09.24-05.52.21:530][360]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Niveles/Mapa01' took 0.033
+[2026.09.24-05.52.21:530][360]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2026.09.24-05.52.21:531][360]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GameMode2D] ([4] browsable assets)...
+[2026.09.24-05.52.21:531][360]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GameMode2D]
+[2026.09.24-05.52.21:536][360]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/GameMode2D_Auto86DE499B84CB644849B71A2B05C612D4C.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Autosaves/Game/Blueprints/GameMode2D_Auto8.uasset'
+[2026.09.24-05.52.21:537][360]LogFileHelpers: Auto-saving content packages took 0.007
+[2026.09.24-05.57.48:202][848]BlueprintLog: New page: Compilar GameMode2D
+[2026.09.24-05.57.48:235][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2026.09.24-05.57.48:851][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode2D" FILE="../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Blueprints/GameMode2D.uasset" SILENT=true
+[2026.09.24-05.57.48:862][882]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/GameMode2D4567733743FDB282FF4E3DBA78B77BA4.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Blueprints/GameMode2D.uasset'
+[2026.09.24-05.57.48:877][882]AssetCheck: New page: Asset Save: GameMode2D
+[2026.09.24-05.57.48:878][882]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GameMode2D.GameMode2D
+[2026.09.24-05.59.43:966][874]BlueprintLog: New page: Compilar GameMode2D
+[2026.09.24-05.59.44:003][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2026.09.24-05.59.44:590][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode2D" FILE="../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Blueprints/GameMode2D.uasset" SILENT=true
+[2026.09.24-05.59.44:599][906]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/GameMode2D698FD830431C894E81F2EB8CD666810A.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Blueprints/GameMode2D.uasset'
+[2026.09.24-05.59.44:619][906]AssetCheck: New page: Asset Save: GameMode2D
+[2026.09.24-05.59.44:619][906]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GameMode2D.GameMode2D
+[2026.09.24-05.59.46:786][ 29]LogTemp: Repeating last play command: Selected Viewport
+[2026.09.24-05.59.46:793][ 29]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.24-05.59.46:793][ 29]PIE: New page: Sesión PIE (reproducción en el editor): Mapa01 (23 sep. 2026 18:59:46)
+[2026.09.24-05.59.46:793][ 29]LogPlayLevel: Creating play world package: /Game/Niveles/UEDPIE_0_Mapa01
+[2026.09.24-05.59.46:796][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002200s)
+[2026.09.24-05.59.46:797][ 29]LogAIModule: Creating AISystem for world Mapa01
+[2026.09.24-05.59.46:797][ 29]LogPlayLevel: PIE: World Init took: (0.000893s)
+[2026.09.24-05.59.46:797][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Niveles/Mapa01.Mapa01 to /Game/Niveles/UEDPIE_0_Mapa01.Mapa01 (0.003193s)
+[2026.09.24-05.59.46:816][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.09.24-05.59.46:816][ 29]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.09.24-05.59.46:816][ 29]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.24-05.59.46:816][ 29]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.24-05.59.46:816][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.24-05.59.46:816][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.24-05.59.46:816][ 29]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.09.24-05.59.46:816][ 29]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.24-05.59.46:816][ 29]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.09.24-05.59.46:816][ 29]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.24-05.59.46:817][ 29]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.24-05.59.46:817][ 29]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.24-05.59.46:817][ 29]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.24-05.59.46:817][ 29]LogAudioMixer: Display: Initializing audio mixer.
+[2026.09.24-05.59.46:821][ 29]LogAudioMixer: Display: 0: FrontLeft
+[2026.09.24-05.59.46:821][ 29]LogAudioMixer: Display: 1: FrontRight
+[2026.09.24-05.59.46:890][ 29]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2026.09.24-05.59.46:890][ 29]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.24-05.59.46:890][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.24-05.59.46:890][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.24-05.59.46:891][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2026.09.24-05.59.46:891][ 29]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2026.09.24-05.59.46:891][ 29]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2026.09.24-05.59.46:893][ 29]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2026.09.24-05.59.46:893][ 29]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2026.09.24-05.59.46:893][ 29]LogInit: FAudioDevice initialized.
+[2026.09.24-05.59.46:893][ 29]LogAudio: Display: Audio Device (ID: 11) registered with world 'Mapa01'.
+[2026.09.24-05.59.46:902][ 29]LogLoad: Game class is 'GameMode2D_C'
+[2026.09.24-05.59.46:904][ 29]LogWorld: Bringing World /Game/Niveles/UEDPIE_0_Mapa01.Mapa01 up for play (max tick rate 60) at 2026.09.23-23.59.46
+[2026.09.24-05.59.46:904][ 29]LogWorld: Bringing up level for play took: 0.001826
+[2026.09.24-05.59.46:904][ 29]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2026.09.24-05.59.46:908][ 29]PIE: El servidor ha iniciado la sesión
+[2026.09.24-05.59.46:909][ 29]PIE: Play in editor total start time 0.118 seconds.
+[2026.09.24-06.00.21:451][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.24-06.00.21:451][ 99]LogWorld: BeginTearingDown for /Game/Niveles/UEDPIE_0_Mapa01
+[2026.09.24-06.00.21:451][ 99]LogWorld: UWorld::CleanupWorld for Mapa01, bSessionEnded=true, bCleanupResources=true
+[2026.09.24-06.00.21:451][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.24-06.00.21:459][ 99]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.24-06.00.21:465][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.24-06.00.21:485][ 99]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.09.24-06.00.21:486][ 99]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.09.24-06.00.21:486][ 99]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.09.24-06.00.21:488][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.24-06.00.21:490][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.09.24-06.00.21:519][100]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2026.09.24-06.00.44:574][358]LogTemp: Repeating last play command: Selected Viewport
+[2026.09.24-06.00.44:581][358]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.24-06.00.44:581][358]PIE: New page: Sesión PIE (reproducción en el editor): Mapa01 (23 sep. 2026 19:00:44)
+[2026.09.24-06.00.44:629][358]LogPlayLevel: Creating play world package: /Game/Niveles/UEDPIE_0_Mapa01
+[2026.09.24-06.00.44:632][358]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002290s)
+[2026.09.24-06.00.44:632][358]LogAIModule: Creating AISystem for world Mapa01
+[2026.09.24-06.00.44:633][358]LogPlayLevel: PIE: World Init took: (0.000795s)
+[2026.09.24-06.00.44:633][358]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Niveles/Mapa01.Mapa01 to /Game/Niveles/UEDPIE_0_Mapa01.Mapa01 (0.003258s)
+[2026.09.24-06.00.44:648][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.09.24-06.00.44:649][358]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2026.09.24-06.00.44:649][358]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.24-06.00.44:649][358]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.24-06.00.44:649][358]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.24-06.00.44:649][358]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.24-06.00.44:649][358]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.09.24-06.00.44:649][358]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.24-06.00.44:649][358]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.09.24-06.00.44:649][358]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.24-06.00.44:650][358]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.24-06.00.44:650][358]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.24-06.00.44:650][358]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.24-06.00.44:650][358]LogAudioMixer: Display: Initializing audio mixer.
+[2026.09.24-06.00.44:653][358]LogAudioMixer: Display: 0: FrontLeft
+[2026.09.24-06.00.44:653][358]LogAudioMixer: Display: 1: FrontRight
+[2026.09.24-06.00.44:725][358]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2026.09.24-06.00.44:725][358]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.24-06.00.44:725][358]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.24-06.00.44:725][358]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.24-06.00.44:726][358]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2026.09.24-06.00.44:726][358]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2026.09.24-06.00.44:726][358]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2026.09.24-06.00.44:727][358]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2026.09.24-06.00.44:727][358]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2026.09.24-06.00.44:727][358]LogInit: FAudioDevice initialized.
+[2026.09.24-06.00.44:727][358]LogAudio: Display: Audio Device (ID: 12) registered with world 'Mapa01'.
+[2026.09.24-06.00.44:735][358]LogLoad: Game class is 'GameMode2D_C'
+[2026.09.24-06.00.44:737][358]LogWorld: Bringing World /Game/Niveles/UEDPIE_0_Mapa01.Mapa01 up for play (max tick rate 60) at 2026.09.24-00.00.44
+[2026.09.24-06.00.44:737][358]LogWorld: Bringing up level for play took: 0.001852
+[2026.09.24-06.00.44:737][358]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2026.09.24-06.00.44:743][358]PIE: El servidor ha iniciado la sesión
+[2026.09.24-06.00.44:743][358]PIE: Play in editor total start time 0.165 seconds.
+[2026.09.24-06.01.07:421][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.24-06.01.07:421][678]LogWorld: BeginTearingDown for /Game/Niveles/UEDPIE_0_Mapa01
+[2026.09.24-06.01.07:421][678]LogWorld: UWorld::CleanupWorld for Mapa01, bSessionEnded=true, bCleanupResources=true
+[2026.09.24-06.01.07:421][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.24-06.01.07:429][678]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.24-06.01.07:437][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.24-06.01.07:451][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.24-06.01.07:451][678]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.09.24-06.01.07:452][678]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.09.24-06.01.07:461][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.09.24-06.01.07:529][680]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2026.09.24-06.01.22:538][403]BlueprintLog: New page: Compilar GameMode2D
+[2026.09.24-06.01.22:570][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.09.24-06.01.23:172][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode2D" FILE="../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Blueprints/GameMode2D.uasset" SILENT=true
+[2026.09.24-06.01.23:181][436]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/GameMode2D3CA374F748F05A892C22468AD55291A5.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Blueprints/GameMode2D.uasset'
+[2026.09.24-06.01.23:201][436]AssetCheck: New page: Asset Save: GameMode2D
+[2026.09.24-06.01.23:201][436]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GameMode2D.GameMode2D
+[2026.09.24-06.01.25:796][588]LogTemp: Repeating last play command: Selected Viewport
+[2026.09.24-06.01.25:806][588]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.24-06.01.25:806][588]PIE: New page: Sesión PIE (reproducción en el editor): Mapa01 (23 sep. 2026 19:01:25)
+[2026.09.24-06.01.25:806][588]LogPlayLevel: Creating play world package: /Game/Niveles/UEDPIE_0_Mapa01
+[2026.09.24-06.01.25:810][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002662s)
+[2026.09.24-06.01.25:810][588]LogAIModule: Creating AISystem for world Mapa01
+[2026.09.24-06.01.25:810][588]LogPlayLevel: PIE: World Init took: (0.000737s)
+[2026.09.24-06.01.25:810][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Niveles/Mapa01.Mapa01 to /Game/Niveles/UEDPIE_0_Mapa01.Mapa01 (0.003514s)
+[2026.09.24-06.01.25:826][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.09.24-06.01.25:827][588]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2026.09.24-06.01.25:827][588]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.24-06.01.25:827][588]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.24-06.01.25:827][588]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.24-06.01.25:827][588]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.24-06.01.25:827][588]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.09.24-06.01.25:827][588]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.24-06.01.25:827][588]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.09.24-06.01.25:827][588]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.24-06.01.25:828][588]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.24-06.01.25:828][588]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.24-06.01.25:828][588]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.24-06.01.25:828][588]LogAudioMixer: Display: Initializing audio mixer.
+[2026.09.24-06.01.25:831][588]LogAudioMixer: Display: 0: FrontLeft
+[2026.09.24-06.01.25:831][588]LogAudioMixer: Display: 1: FrontRight
+[2026.09.24-06.01.25:900][588]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2026.09.24-06.01.25:900][588]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.24-06.01.25:900][588]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.24-06.01.25:900][588]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.24-06.01.25:901][588]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2026.09.24-06.01.25:901][588]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2026.09.24-06.01.25:901][588]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2026.09.24-06.01.25:902][588]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2026.09.24-06.01.25:903][588]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2026.09.24-06.01.25:903][588]LogInit: FAudioDevice initialized.
+[2026.09.24-06.01.25:903][588]LogAudio: Display: Audio Device (ID: 13) registered with world 'Mapa01'.
+[2026.09.24-06.01.25:912][588]LogLoad: Game class is 'GameMode2D_C'
+[2026.09.24-06.01.25:915][588]LogWorld: Bringing World /Game/Niveles/UEDPIE_0_Mapa01.Mapa01 up for play (max tick rate 60) at 2026.09.24-00.01.25
+[2026.09.24-06.01.25:915][588]LogWorld: Bringing up level for play took: 0.001869
+[2026.09.24-06.01.25:915][588]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2026.09.24-06.01.25:919][588]PIE: El servidor ha iniciado la sesión
+[2026.09.24-06.01.25:919][588]PIE: Play in editor total start time 0.116 seconds.
+[2026.09.24-06.02.08:512][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.24-06.02.08:512][140]LogWorld: BeginTearingDown for /Game/Niveles/UEDPIE_0_Mapa01
+[2026.09.24-06.02.08:512][140]LogWorld: UWorld::CleanupWorld for Mapa01, bSessionEnded=true, bCleanupResources=true
+[2026.09.24-06.02.08:512][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.24-06.02.08:522][140]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.24-06.02.08:528][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.24-06.02.08:541][140]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.09.24-06.02.08:541][140]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.09.24-06.02.08:542][140]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.09.24-06.02.08:549][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.24-06.02.08:551][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.09.24-06.02.08:576][141]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2026.09.24-06.02.09:851][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.09.24-06.02.09:862][213]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mapa01A208E76243687346FBB752875A8FFD87.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Niveles/Mapa01.umap'
+[2026.09.24-06.02.09:886][213]AssetCheck: New page: Asset Save: Mapa01
+[2026.09.24-06.02.09:886][213]LogContentValidation: Display: Validating World /Game/Niveles/Mapa01.Mapa01
+[2026.09.24-06.02.10:430][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.09.24-06.02.10:441][244]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mapa01EAB865394CD98102A78C7499C6D5868F.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Niveles/Mapa01.umap'
+[2026.09.24-06.02.10:462][244]AssetCheck: New page: Asset Save: Mapa01
+[2026.09.24-06.02.10:462][244]LogContentValidation: Display: Validating World /Game/Niveles/Mapa01.Mapa01
+[2026.09.24-06.02.10:659][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.09.24-06.02.10:669][254]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mapa019653047C48F4C33266C166B20A687A6A.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Niveles/Mapa01.umap'
+[2026.09.24-06.02.10:687][254]AssetCheck: New page: Asset Save: Mapa01
+[2026.09.24-06.02.10:687][254]LogContentValidation: Display: Validating World /Game/Niveles/Mapa01.Mapa01
+[2026.09.24-06.04.43:690][963]BlueprintLog: New page: Compilar GameMode2D
+[2026.09.24-06.04.43:720][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.09.24-06.04.44:212][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode2D" FILE="../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Blueprints/GameMode2D.uasset" SILENT=true
+[2026.09.24-06.04.44:222][989]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/GameMode2D02DC54294FE24D4CAD33DCBAF98BBE0F.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Blueprints/GameMode2D.uasset'
+[2026.09.24-06.04.44:237][989]AssetCheck: New page: Asset Save: GameMode2D
+[2026.09.24-06.04.44:237][989]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GameMode2D.GameMode2D
+[2026.09.24-06.04.45:463][ 60]BlueprintLog: New page: Compilar BP_Moneda
+[2026.09.24-06.04.45:501][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.09.24-06.04.46:188][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Moneda" FILE="../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Blueprints/BP_Moneda.uasset" SILENT=true
+[2026.09.24-06.04.46:199][ 96]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/BP_Moneda9962EBDA4ED29836A8989CAD1A35D04F.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Blueprints/BP_Moneda.uasset'
+[2026.09.24-06.04.46:216][ 96]AssetCheck: New page: Asset Save: BP_Moneda
+[2026.09.24-06.04.46:216][ 96]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Moneda.BP_Moneda
+[2026.09.24-06.04.47:133][150]LogSlate: Window 'GameMode2D' being destroyed
+[2026.09.24-06.04.47:145][150]LogSlate: Window 'GameMode2D' being destroyed
+[2026.09.24-06.04.47:154][150]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.09.24-06.04.47:154][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.24-06.04.47:385][150]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.09.24-06.04.47:385][150]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.09.24-06.04.47:385][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.24-06.04.48:688][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.09.24-06.04.48:703][220]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mapa01153C20604A5CCF897E2091A8DBD2EEBD.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Niveles/Mapa01.umap'
+[2026.09.24-06.04.48:726][220]AssetCheck: New page: Asset Save: Mapa01
+[2026.09.24-06.04.48:726][220]LogContentValidation: Display: Validating World /Game/Niveles/Mapa01.Mapa01
+[2026.09.24-06.04.50:920][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.09.24-06.04.50:951][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Free_Mushrooms/Mushroom_Reg" FILE="../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Mushroom_Reg.uasset" SILENT=true
+[2026.09.24-06.04.50:961][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_Reg5B92859A44F9DDB938C21AAD743970FE.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Mushroom_Reg.uasset'
+[2026.09.24-06.04.50:965][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_Spotted8997E07040D57669CD5D91AFE3E1D5BC.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Mushroom_Spotted.uasset'
+[2026.09.24-06.04.50:965][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Free_Mushrooms/Mush_Poison" FILE="../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Mush_Poison.uasset" SILENT=true
+[2026.09.24-06.04.50:967][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mush_Poison1D14CBD7472952F474342595A6ED7DF9.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Mush_Poison.uasset'
+[2026.09.24-06.04.50:977][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_0B45AB95E4742A7CBB51DB486E362CDBE.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_0.uasset'
+[2026.09.24-06.04.50:985][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_17C566B1D4062B28A8CE0688EF1901171.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_1.uasset'
+[2026.09.24-06.04.50:993][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_24BC7572E439C80703AB0CFBAAB4B4D69.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_2.uasset'
+[2026.09.24-06.04.50:999][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_309F9A6C5410551C6124EFA9996BFD4E6.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_3.uasset'
+[2026.09.24-06.04.51:006][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_45E865AEE47D3CB59ED05D280C182AD62.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_4.uasset'
+[2026.09.24-06.04.51:012][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_592E9A5384141238A821A1BAEA42A545E.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_5.uasset'
+[2026.09.24-06.04.51:019][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_6F99FDDCF439999E01CCEFAA9DF26879C.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_6.uasset'
+[2026.09.24-06.04.51:026][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_77D2E1B4147C325324DFEB0B3C7B1E3D1.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_7.uasset'
+[2026.09.24-06.04.51:032][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_8DBF6FD6F46DCE41BFD8BA4A3A05E62AF.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_8.uasset'
+[2026.09.24-06.04.51:040][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_9475845E942AD3AFC1CA1D28DCE63D705.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_9.uasset'
+[2026.09.24-06.04.51:048][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_10DB237F2547C1080A9E08C6AE33A5863C.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_10.uasset'
+[2026.09.24-06.04.51:054][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_11FD1DC2964A9D946D9D7592AD503BFC56.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_11.uasset'
+[2026.09.24-06.04.51:062][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_12654C62B344252177271C73951B93FC64.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_12.uasset'
+[2026.09.24-06.04.51:069][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_1368C3B7F341105541920D2E8A19601DA5.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_13.uasset'
+[2026.09.24-06.04.51:077][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_14195703B7404CF1C187CD4CAB31681690.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_14.uasset'
+[2026.09.24-06.04.51:084][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_15C49A09F8459BC2A3151428B81386D892.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_15.uasset'
+[2026.09.24-06.04.51:092][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_16FCAADB7D47CF549B6769C095E53DD3DB.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_16.uasset'
+[2026.09.24-06.04.51:099][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_17C62ADEF647C2A405E8F222B101F58BE8.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_17.uasset'
+[2026.09.24-06.04.51:107][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_184C1CFC44453869E2A34A51830E012D10.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_18.uasset'
+[2026.09.24-06.04.51:113][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_19A7F48B9D4EE115C6F2842BAE99AEBA7E.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_19.uasset'
+[2026.09.24-06.04.51:121][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_202DE50CCD40DE32638F8B23AF2D13CC20.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_20.uasset'
+[2026.09.24-06.04.51:128][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_21CC1B94204D50B19704A69DBEB77AEB6C.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_21.uasset'
+[2026.09.24-06.04.51:135][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_22C479016741CC2A9236222C8764E9B4C8.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_22.uasset'
+[2026.09.24-06.04.51:142][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_23B1D0D076449FD811506EEFA22E7E930F.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_23.uasset'
+[2026.09.24-06.04.51:149][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_2403CDF9074BF033FB834B9FABCEAFD3FB.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_24.uasset'
+[2026.09.24-06.04.51:164][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_25C30D2A434CF4EA211648FD8EDE2AFF4A.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_25.uasset'
+[2026.09.24-06.04.51:169][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_2653BA883E405175C181509EA9DBB51A9C.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_26.uasset'
+[2026.09.24-06.04.51:176][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_27DA5F82A440693312CEF16EA204ED8429.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_27.uasset'
+[2026.09.24-06.04.51:185][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_288168E74D41569FA862A2B2A7A50BAF4C.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_28.uasset'
+[2026.09.24-06.04.51:190][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_29D4EFC0E640BD33E74AC61EB0AC68EF15.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_29.uasset'
+[2026.09.24-06.04.51:197][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_30387004B441A8D0A2640D72A3627422EB.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_30.uasset'
+[2026.09.24-06.04.51:204][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_315FEA0359448302354529BA8F4DC8EAFF.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_31.uasset'
+[2026.09.24-06.04.51:214][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_3215E26819431A89164F5C1EAFE1BBF7AF.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_32.uasset'
+[2026.09.24-06.04.51:221][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_33C221AA0E4FB85B5EE61612B885DA22CD.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_33.uasset'
+[2026.09.24-06.04.51:229][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_343D73403C44035441CD9B5EB264212CBC.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_34.uasset'
+[2026.09.24-06.04.51:237][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_3593C7028D4A534A516D9087ADD6326BE7.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_35.uasset'
+[2026.09.24-06.04.51:244][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_36E1DB587E4F415C2DFF087784AF94478D.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_36.uasset'
+[2026.09.24-06.04.51:251][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_37C23F87B44D662DC269BEF98C7267946A.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_37.uasset'
+[2026.09.24-06.04.51:260][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_380F8904C3457FC54C0A13B19ED3FB6DB6.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_38.uasset'
+[2026.09.24-06.04.51:267][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_39C2EEC042471EF41AC90278903F8D74D0.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_39.uasset'
+[2026.09.24-06.04.51:275][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_40BE7B5E9A495E90A36FCA3F9CD0FD2AE7.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_40.uasset'
+[2026.09.24-06.04.51:283][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_41BA30D24F413FECD013BF76B159B22FE7.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_41.uasset'
+[2026.09.24-06.04.51:290][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_42D0A7FDE2432A0D7133E54CB6F4AEEF4D.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_42.uasset'
+[2026.09.24-06.04.51:299][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_43A55BB2E84D781DDCE1EB1F8C2D411A17.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_43.uasset'
+[2026.09.24-06.04.51:305][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_44D80FADB9414A53AFA00737A6C66A79CD.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_44.uasset'
+[2026.09.24-06.04.51:312][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_45D1468B024B8B9F889CD1C5A6DA80F44F.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_45.uasset'
+[2026.09.24-06.04.51:318][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_4674297380412D3D669B0F599B0A9C49D1.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_46.uasset'
+[2026.09.24-06.04.51:325][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_474B2A82554475F5B2EFC20FB629C3DB63.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_47.uasset'
+[2026.09.24-06.04.51:332][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/Mushroom_spike_Sprite_4893E20BC94D3B87233ECF009E683339DB.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_48.uasset'
+[2026.09.24-06.04.51:607][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/vecteezy_game-coin-pixelated_5492775036947E718613537A7BDA9C8A944.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Elements/vecteezy_game-coin-pixelated_54978935.uasset'
+[2026.09.24-06.04.51:615][350]LogSavePackage: Moving '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Saved/vecteezy_game-coin-pixelated_5491FC223A44F9937C87812938D45335D37.tmp' to '../../../../../../Users/larse/OneDrive/Documentos/Unreal Projects/Terraformer/Content/Elements/vecteezy_game-coin-pixelated_54978935_Sprite.uasset'
+[2026.09.24-06.04.51:657][350]AssetCheck: New page: Asset Save: multiple assets
+[2026.09.24-06.04.51:657][350]LogContentValidation: Display: Validating Texture2D /Game/Free_Mushrooms/Mush_Poison.Mush_Poison
+[2026.09.24-06.04.51:657][350]LogContentValidation: Display: Validating Texture2D /Game/Free_Mushrooms/Mushroom_Spotted.Mushroom_Spotted
+[2026.09.24-06.04.51:657][350]LogContentValidation: Display: Validating Texture2D /Game/Free_Mushrooms/Mushroom_Reg.Mushroom_Reg
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Elements/vecteezy_game-coin-pixelated_54978935_Sprite.vecteezy_game-coin-pixelated_54978935_Sprite
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating Texture2D /Game/Elements/vecteezy_game-coin-pixelated_54978935.vecteezy_game-coin-pixelated_54978935
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_48.Mushroom_spike_Sprite_48
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_47.Mushroom_spike_Sprite_47
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_46.Mushroom_spike_Sprite_46
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_45.Mushroom_spike_Sprite_45
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_44.Mushroom_spike_Sprite_44
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_43.Mushroom_spike_Sprite_43
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_42.Mushroom_spike_Sprite_42
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_41.Mushroom_spike_Sprite_41
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_40.Mushroom_spike_Sprite_40
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_39.Mushroom_spike_Sprite_39
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_38.Mushroom_spike_Sprite_38
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_37.Mushroom_spike_Sprite_37
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_36.Mushroom_spike_Sprite_36
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_35.Mushroom_spike_Sprite_35
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_34.Mushroom_spike_Sprite_34
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_33.Mushroom_spike_Sprite_33
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_32.Mushroom_spike_Sprite_32
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_31.Mushroom_spike_Sprite_31
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_30.Mushroom_spike_Sprite_30
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_29.Mushroom_spike_Sprite_29
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_28.Mushroom_spike_Sprite_28
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_27.Mushroom_spike_Sprite_27
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_26.Mushroom_spike_Sprite_26
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_25.Mushroom_spike_Sprite_25
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_24.Mushroom_spike_Sprite_24
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_23.Mushroom_spike_Sprite_23
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_22.Mushroom_spike_Sprite_22
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_21.Mushroom_spike_Sprite_21
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_20.Mushroom_spike_Sprite_20
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_19.Mushroom_spike_Sprite_19
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_18.Mushroom_spike_Sprite_18
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_17.Mushroom_spike_Sprite_17
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_16.Mushroom_spike_Sprite_16
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_15.Mushroom_spike_Sprite_15
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_14.Mushroom_spike_Sprite_14
+[2026.09.24-06.04.51:658][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_13.Mushroom_spike_Sprite_13
+[2026.09.24-06.04.51:659][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_12.Mushroom_spike_Sprite_12
+[2026.09.24-06.04.51:659][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_11.Mushroom_spike_Sprite_11
+[2026.09.24-06.04.51:659][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_10.Mushroom_spike_Sprite_10
+[2026.09.24-06.04.51:659][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_9.Mushroom_spike_Sprite_9
+[2026.09.24-06.04.51:659][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_8.Mushroom_spike_Sprite_8
+[2026.09.24-06.04.51:659][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_7.Mushroom_spike_Sprite_7
+[2026.09.24-06.04.51:659][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_6.Mushroom_spike_Sprite_6
+[2026.09.24-06.04.51:659][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_5.Mushroom_spike_Sprite_5
+[2026.09.24-06.04.51:659][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_4.Mushroom_spike_Sprite_4
+[2026.09.24-06.04.51:659][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_3.Mushroom_spike_Sprite_3
+[2026.09.24-06.04.51:659][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_2.Mushroom_spike_Sprite_2
+[2026.09.24-06.04.51:659][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_1.Mushroom_spike_Sprite_1
+[2026.09.24-06.04.51:659][350]LogContentValidation: Display: Validating PaperSprite /Game/Free_Mushrooms/Enemigo/Mushroom_spike_Sprite_0.Mushroom_spike_Sprite_0
+[2026.09.24-06.04.57:258][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.09.24-06.04.58:503][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2026.09.24-06.04.58:517][754]LogSlate: Window 'Terraformer - Unreal Editor' being destroyed
+[2026.09.24-06.04.58:891][755]Cmd: QUIT_EDITOR
+[2026.09.24-06.04.58:892][755]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.09.24-06.04.58:908][755]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.09.24-06.04.59:813][755]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.09.24-06.04.59:813][755]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.09.24-06.04.59:813][755]LogAudio: Display: Audio Device unregistered from world 'Mapa01'.
+[2026.09.24-06.04.59:813][755]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.09.24-06.04.59:822][755]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.09.24-06.04.59:868][755]LogAudio: Display: Audio Device Manager Shutdown
+[2026.09.24-06.04.59:870][755]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2026.09.24-06.04.59:906][755]LogExit: Preparing to exit.
+[2026.09.24-06.04.59:968][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2026.09.24-06.05.01:115][755]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.09.24-06.05.01:476][755]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2026.09.24-06.05.01:518][755]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2026.09.24-06.05.01:520][755]LogExit: Editor shut down
+[2026.09.24-06.05.01:526][755]LogExit: Transaction tracking system shut down
+[2026.09.24-06.05.02:930][755]LogExit: Object subsystem successfully closed.
+[2026.09.24-06.05.03:018][755]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.09.24-06.05.03:018][755]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2026.09.24-06.05.03:019][755]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2026.09.24-06.05.03:019][755]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2026.09.24-06.05.03:019][755]LogShaderCompilers: Display: ================================================
+[2026.09.24-06.05.03:079][755]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.09.24-06.05.03:454][755]LogModuleManager: Shutting down and abandoning module BlueprintGraph (878)
+[2026.09.24-06.05.03:455][755]LogModuleManager: Shutting down and abandoning module TextureEditor (876)
+[2026.09.24-06.05.03:457][755]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (874)
+[2026.09.24-06.05.03:457][755]LogModuleManager: Shutting down and abandoning module Voice (872)
+[2026.09.24-06.05.03:457][755]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2026.09.24-06.05.03:457][755]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2026.09.24-06.05.03:457][755]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2026.09.24-06.05.03:487][755]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2026.09.24-06.05.03:487][755]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2026.09.24-06.05.03:487][755]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2026.09.24-06.05.03:488][755]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2026.09.24-06.05.03:489][755]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2026.09.24-06.05.03:489][755]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2026.09.24-06.05.03:490][755]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2026.09.24-06.05.03:490][755]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2026.09.24-06.05.03:490][755]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (848)
+[2026.09.24-06.05.03:494][755]LogModuleManager: Shutting down and abandoning module TakeRecorder (847)
+[2026.09.24-06.05.03:496][755]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (844)
+[2026.09.24-06.05.03:497][755]LogModuleManager: Shutting down and abandoning module TakesCore (842)
+[2026.09.24-06.05.03:497][755]LogModuleManager: Shutting down and abandoning module OpenXRInput (840)
+[2026.09.24-06.05.03:498][755]LogModuleManager: Shutting down and abandoning module GooglePADEditor (838)
+[2026.09.24-06.05.03:498][755]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (836)
+[2026.09.24-06.05.03:498][755]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (834)
+[2026.09.24-06.05.03:501][755]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (832)
+[2026.09.24-06.05.03:502][755]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (830)
+[2026.09.24-06.05.03:504][755]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (828)
+[2026.09.24-06.05.03:505][755]LogModuleManager: Shutting down and abandoning module PlanarCut (826)
+[2026.09.24-06.05.03:506][755]LogModuleManager: Shutting down and abandoning module CharacterAI (824)
+[2026.09.24-06.05.03:506][755]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (822)
+[2026.09.24-06.05.03:506][755]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (820)
+[2026.09.24-06.05.03:506][755]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (818)
+[2026.09.24-06.05.03:506][755]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (816)
+[2026.09.24-06.05.03:506][755]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (814)
+[2026.09.24-06.05.03:506][755]LogModuleManager: Shutting down and abandoning module WebMMedia (812)
+[2026.09.24-06.05.03:506][755]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (810)
+[2026.09.24-06.05.03:506][755]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (808)
+[2026.09.24-06.05.03:506][755]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (806)
+[2026.09.24-06.05.03:507][755]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (804)
+[2026.09.24-06.05.03:508][755]LogModuleManager: Shutting down and abandoning module SequenceRecorder (803)
+[2026.09.24-06.05.03:509][755]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (800)
+[2026.09.24-06.05.03:509][755]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (798)
+[2026.09.24-06.05.03:509][755]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (796)
+[2026.09.24-06.05.03:509][755]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (794)
+[2026.09.24-06.05.03:509][755]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (792)
+[2026.09.24-06.05.03:509][755]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (790)
+[2026.09.24-06.05.03:509][755]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (788)
+[2026.09.24-06.05.03:509][755]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2026.09.24-06.05.03:509][755]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2026.09.24-06.05.03:510][755]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2026.09.24-06.05.03:510][755]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2026.09.24-06.05.03:511][755]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2026.09.24-06.05.03:511][755]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2026.09.24-06.05.03:511][755]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2026.09.24-06.05.03:512][755]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2026.09.24-06.05.03:512][755]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2026.09.24-06.05.03:513][755]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2026.09.24-06.05.03:516][755]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2026.09.24-06.05.03:517][755]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2026.09.24-06.05.03:517][755]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2026.09.24-06.05.03:517][755]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2026.09.24-06.05.03:517][755]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2026.09.24-06.05.03:517][755]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2026.09.24-06.05.03:517][755]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2026.09.24-06.05.03:518][755]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2026.09.24-06.05.03:519][755]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2026.09.24-06.05.03:521][755]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2026.09.24-06.05.03:525][755]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2026.09.24-06.05.03:525][755]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2026.09.24-06.05.03:525][755]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2026.09.24-06.05.03:526][755]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2026.09.24-06.05.03:526][755]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2026.09.24-06.05.05:035][755]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2026.09.24-06.05.05:035][755]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2026.09.24-06.05.05:035][755]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2026.09.24-06.05.05:035][755]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2026.09.24-06.05.05:035][755]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2026.09.24-06.05.05:039][755]MemoryProfiler: Shutdown
+[2026.09.24-06.05.05:039][755]NetworkingProfiler: Shutdown
+[2026.09.24-06.05.05:039][755]LoadingProfiler: Shutdown
+[2026.09.24-06.05.05:040][755]TimingProfiler: Shutdown
+[2026.09.24-06.05.05:042][755]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2026.09.24-06.05.05:043][755]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2026.09.24-06.05.05:043][755]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2026.09.24-06.05.05:043][755]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2026.09.24-06.05.05:044][755]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2026.09.24-06.05.05:044][755]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2026.09.24-06.05.05:045][755]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2026.09.24-06.05.05:046][755]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2026.09.24-06.05.05:046][755]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2026.09.24-06.05.05:047][755]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2026.09.24-06.05.05:048][755]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2026.09.24-06.05.05:048][755]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2026.09.24-06.05.05:048][755]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2026.09.24-06.05.05:049][755]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2026.09.24-06.05.05:053][755]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2026.09.24-06.05.05:054][755]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2026.09.24-06.05.05:054][755]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2026.09.24-06.05.05:055][755]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2026.09.24-06.05.05:056][755]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2026.09.24-06.05.05:056][755]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2026.09.24-06.05.05:057][755]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2026.09.24-06.05.05:058][755]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2026.09.24-06.05.05:093][755]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2026.09.24-06.05.05:094][755]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2026.09.24-06.05.05:094][755]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2026.09.24-06.05.05:097][755]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2026.09.24-06.05.05:097][755]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2026.09.24-06.05.05:097][755]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2026.09.24-06.05.05:097][755]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2026.09.24-06.05.05:098][755]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2026.09.24-06.05.05:100][755]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2026.09.24-06.05.05:100][755]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2026.09.24-06.05.05:100][755]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2026.09.24-06.05.05:158][755]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2026.09.24-06.05.05:158][755]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2026.09.24-06.05.05:159][755]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2026.09.24-06.05.05:160][755]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2026.09.24-06.05.05:164][755]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2026.09.24-06.05.05:165][755]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2026.09.24-06.05.05:165][755]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2026.09.24-06.05.05:173][755]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2026.09.24-06.05.05:173][755]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2026.09.24-06.05.05:189][755]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2026.09.24-06.05.05:190][755]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2026.09.24-06.05.05:191][755]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2026.09.24-06.05.05:191][755]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2026.09.24-06.05.05:193][755]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2026.09.24-06.05.05:193][755]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2026.09.24-06.05.05:193][755]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2026.09.24-06.05.05:193][755]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2026.09.24-06.05.05:194][755]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2026.09.24-06.05.05:194][755]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2026.09.24-06.05.05:194][755]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2026.09.24-06.05.05:194][755]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2026.09.24-06.05.05:194][755]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2026.09.24-06.05.05:194][755]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2026.09.24-06.05.05:194][755]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2026.09.24-06.05.05:195][755]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2026.09.24-06.05.05:195][755]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2026.09.24-06.05.05:210][755]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2026.09.24-06.05.05:299][755]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2026.09.24-06.05.05:300][755]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2026.09.24-06.05.05:300][755]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2026.09.24-06.05.05:306][755]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2026.09.24-06.05.05:306][755]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (598)
+[2026.09.24-06.05.05:306][755]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (596)
+[2026.09.24-06.05.05:306][755]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (594)
+[2026.09.24-06.05.05:306][755]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2026.09.24-06.05.05:309][755]LogModuleManager: Shutting down and abandoning module SynthesisEditor (590)
+[2026.09.24-06.05.05:309][755]LogModuleManager: Shutting down and abandoning module Synthesis (588)
+[2026.09.24-06.05.05:310][755]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (586)
+[2026.09.24-06.05.05:310][755]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (584)
+[2026.09.24-06.05.05:310][755]LogModuleManager: Shutting down and abandoning module TakeSequencer (582)
+[2026.09.24-06.05.05:310][755]LogModuleManager: Shutting down and abandoning module TakeMovieScene (580)
+[2026.09.24-06.05.05:310][755]LogModuleManager: Shutting down and abandoning module OpenXREditor (578)
+[2026.09.24-06.05.05:311][755]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (576)
+[2026.09.24-06.05.05:311][755]LogModuleManager: Shutting down and abandoning module GooglePAD (574)
+[2026.09.24-06.05.05:311][755]LogModuleManager: Shutting down and abandoning module ScreenshotTools (572)
+[2026.09.24-06.05.05:311][755]LogModuleManager: Shutting down and abandoning module EditableMesh (570)
+[2026.09.24-06.05.05:311][755]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (568)
+[2026.09.24-06.05.05:311][755]LogModuleManager: Shutting down and abandoning module CableComponent (566)
+[2026.09.24-06.05.05:311][755]LogModuleManager: Shutting down and abandoning module AudioCapture (564)
+[2026.09.24-06.05.05:311][755]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (563)
+[2026.09.24-06.05.05:312][755]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (560)
+[2026.09.24-06.05.05:312][755]LogModuleManager: Shutting down and abandoning module AssetTags (558)
+[2026.09.24-06.05.05:312][755]LogModuleManager: Shutting down and abandoning module AndroidPermission (556)
+[2026.09.24-06.05.05:312][755]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (554)
+[2026.09.24-06.05.05:312][755]LogModuleManager: Shutting down and abandoning module AppleImageUtils (552)
+[2026.09.24-06.05.05:312][755]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (550)
+[2026.09.24-06.05.05:313][755]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (548)
+[2026.09.24-06.05.05:313][755]LogModuleManager: Shutting down and abandoning module TemplateSequence (546)
+[2026.09.24-06.05.05:313][755]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (544)
+[2026.09.24-06.05.05:313][755]LogOpenImageDenoise: OIDN shutting down
+[2026.09.24-06.05.05:313][755]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (542)
+[2026.09.24-06.05.05:313][755]LogModuleManager: Shutting down and abandoning module MotoSynth (540)
+[2026.09.24-06.05.05:313][755]LogModuleManager: Shutting down and abandoning module MeshConversion (538)
+[2026.09.24-06.05.05:314][755]LogModuleManager: Shutting down and abandoning module DynamicMesh (536)
+[2026.09.24-06.05.05:314][755]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (534)
+[2026.09.24-06.05.05:315][755]LogModuleManager: Shutting down and abandoning module GeometricObjects (532)
+[2026.09.24-06.05.05:316][755]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (530)
+[2026.09.24-06.05.05:316][755]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (529)
+[2026.09.24-06.05.05:316][755]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (526)
+[2026.09.24-06.05.05:316][755]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (524)
+[2026.09.24-06.05.05:316][755]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (522)
+[2026.09.24-06.05.05:316][755]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (520)
+[2026.09.24-06.05.05:316][755]LogModuleManager: Shutting down and abandoning module FractureEditor (518)
+[2026.09.24-06.05.05:317][755]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (516)
+[2026.09.24-06.05.05:317][755]LogModuleManager: Shutting down and abandoning module ChaosNiagara (514)
+[2026.09.24-06.05.05:317][755]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (513)
+[2026.09.24-06.05.05:317][755]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (510)
+[2026.09.24-06.05.05:317][755]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (508)
+[2026.09.24-06.05.05:317][755]LogModuleManager: Shutting down and abandoning module AutomationUtils (506)
+[2026.09.24-06.05.05:317][755]LogModuleManager: Shutting down and abandoning module BackChannel (504)
+[2026.09.24-06.05.05:317][755]LogModuleManager: Shutting down and abandoning module AlembicImporter (502)
+[2026.09.24-06.05.05:317][755]LogModuleManager: Shutting down and abandoning module AlembicLibrary (501)
+[2026.09.24-06.05.05:318][755]LogModuleManager: Shutting down and abandoning module GeometryCache (500)
+[2026.09.24-06.05.05:318][755]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (499)
+[2026.09.24-06.05.05:318][755]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (494)
+[2026.09.24-06.05.05:318][755]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (492)
+[2026.09.24-06.05.05:318][755]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (490)
+[2026.09.24-06.05.05:319][755]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (488)
+[2026.09.24-06.05.05:319][755]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (486)
+[2026.09.24-06.05.05:319][755]LogModuleManager: Shutting down and abandoning module MediaCompositing (484)
+[2026.09.24-06.05.05:319][755]LogModuleManager: Shutting down and abandoning module ImgMedia (482)
+[2026.09.24-06.05.05:319][755]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (480)
+[2026.09.24-06.05.05:322][755]LogModuleManager: Shutting down and abandoning module PluginBrowser (478)
+[2026.09.24-06.05.05:323][755]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (476)
+[2026.09.24-06.05.05:323][755]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (474)
+[2026.09.24-06.05.05:323][755]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (472)
+[2026.09.24-06.05.05:324][755]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (470)
+[2026.09.24-06.05.05:325][755]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (468)
+[2026.09.24-06.05.05:325][755]LogModuleManager: Shutting down and abandoning module CryptoKeys (466)
+[2026.09.24-06.05.05:325][755]LogModuleManager: Shutting down and abandoning module CurveEditorTools (464)
+[2026.09.24-06.05.05:326][755]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (462)
+[2026.09.24-06.05.05:327][755]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (460)
+[2026.09.24-06.05.05:327][755]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (458)
+[2026.09.24-06.05.05:327][755]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (456)
+[2026.09.24-06.05.05:328][755]LogModuleManager: Shutting down and abandoning module UObjectPlugin (454)
+[2026.09.24-06.05.05:328][755]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (452)
+[2026.09.24-06.05.05:329][755]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (450)
+[2026.09.24-06.05.05:329][755]LogModuleManager: Shutting down and abandoning module PluginUtils (448)
+[2026.09.24-06.05.05:330][755]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (446)
+[2026.09.24-06.05.05:331][755]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (444)
+[2026.09.24-06.05.05:332][755]LogModuleManager: Shutting down and abandoning module GitSourceControl (442)
+[2026.09.24-06.05.05:334][755]LogModuleManager: Shutting down and abandoning module SourceControl (441)
+[2026.09.24-06.05.05:335][755]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (438)
+[2026.09.24-06.05.05:335][755]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (436)
+[2026.09.24-06.05.05:335][755]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (434)
+[2026.09.24-06.05.05:335][755]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (432)
+[2026.09.24-06.05.05:335][755]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (430)
+[2026.09.24-06.05.05:335][755]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (428)
+[2026.09.24-06.05.05:335][755]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (426)
+[2026.09.24-06.05.05:336][755]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (424)
+[2026.09.24-06.05.05:336][755]LogModuleManager: Shutting down and abandoning module LiveLink (422)
+[2026.09.24-06.05.05:990][755]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2026.09.24-06.05.05:990][755]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2026.09.24-06.05.05:990][755]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2026.09.24-06.05.05:991][755]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2026.09.24-06.05.05:992][755]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2026.09.24-06.05.05:992][755]LogModuleManager: Shutting down and abandoning module SoundFields (410)
+[2026.09.24-06.05.05:993][755]LogModuleManager: Shutting down and abandoning module SignificanceManager (408)
+[2026.09.24-06.05.05:993][755]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (406)
+[2026.09.24-06.05.05:993][755]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (404)
+[2026.09.24-06.05.05:993][755]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (402)
+[2026.09.24-06.05.05:993][755]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (398)
+[2026.09.24-06.05.05:993][755]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (396)
+[2026.09.24-06.05.05:993][755]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (394)
+[2026.09.24-06.05.05:993][755]LogModuleManager: Shutting down and abandoning module ActorSequence (392)
+[2026.09.24-06.05.05:993][755]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (390)
+[2026.09.24-06.05.05:995][755]LogModuleManager: Shutting down and abandoning module UdpMessaging (388)
+[2026.09.24-06.05.06:096][755]LogModuleManager: Shutting down and abandoning module TcpMessaging (386)
+[2026.09.24-06.05.06:197][755]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (384)
+[2026.09.24-06.05.06:197][755]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (382)
+[2026.09.24-06.05.06:197][755]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (380)
+[2026.09.24-06.05.06:197][755]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (378)
+[2026.09.24-06.05.06:198][755]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (376)
+[2026.09.24-06.05.06:198][755]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2026.09.24-06.05.06:198][755]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (374)
+[2026.09.24-06.05.06:198][755]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (372)
+[2026.09.24-06.05.06:198][755]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (370)
+[2026.09.24-06.05.06:199][755]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (368)
+[2026.09.24-06.05.06:199][755]LogModuleManager: Shutting down and abandoning module MagicLeapController (366)
+[2026.09.24-06.05.06:199][755]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (364)
+[2026.09.24-06.05.06:199][755]LogModuleManager: Shutting down and abandoning module MagicLeapAR (362)
+[2026.09.24-06.05.06:199][755]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (360)
+[2026.09.24-06.05.06:199][755]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (358)
+[2026.09.24-06.05.06:199][755]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2026.09.24-06.05.06:201][755]LogModuleManager: Shutting down and abandoning module SignalProcessing (355)
+[2026.09.24-06.05.06:201][755]LogModuleManager: Shutting down and abandoning module NiagaraEditor (353)
+[2026.09.24-06.05.06:205][755]LogModuleManager: Shutting down and abandoning module NiagaraCore (350)
+[2026.09.24-06.05.06:205][755]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (348)
+[2026.09.24-06.05.06:205][755]LogModuleManager: Shutting down and abandoning module FacialAnimation (346)
+[2026.09.24-06.05.06:205][755]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (344)
+[2026.09.24-06.05.06:205][755]LogModuleManager: Shutting down and abandoning module DataValidation (342)
+[2026.09.24-06.05.06:205][755]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (340)
+[2026.09.24-06.05.06:206][755]LogModuleManager: Shutting down and abandoning module LevelEditor (339)
+[2026.09.24-06.05.06:215][755]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (338)
+[2026.09.24-06.05.06:215][755]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (336)
+[2026.09.24-06.05.06:217][755]LogModuleManager: Shutting down and abandoning module MainFrame (334)
+[2026.09.24-06.05.06:217][755]LogModuleManager: Shutting down and abandoning module HotReload (333)
+[2026.09.24-06.05.06:219][755]LogModuleManager: Shutting down and abandoning module ToolMenus (329)
+[2026.09.24-06.05.06:219][755]LogModuleManager: Shutting down and abandoning module ContentBrowser (327)
+[2026.09.24-06.05.06:219][755]LogModuleManager: Shutting down and abandoning module ContentBrowserData (326)
+[2026.09.24-06.05.06:219][755]LogModuleManager: Shutting down and abandoning module TreeMap (323)
+[2026.09.24-06.05.06:219][755]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (320)
+[2026.09.24-06.05.06:219][755]LogModuleManager: Shutting down and abandoning module AnimationSharing (318)
+[2026.09.24-06.05.06:219][755]LogModuleManager: Shutting down and abandoning module GameplayCameras (316)
+[2026.09.24-06.05.06:219][755]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (314)
+[2026.09.24-06.05.06:219][755]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (312)
+[2026.09.24-06.05.06:220][755]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2026.09.24-06.05.06:221][755]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2026.09.24-06.05.06:267][755]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2026.09.24-06.05.06:267][755]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2026.09.24-06.05.06:267][755]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2026.09.24-06.05.06:267][755]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2026.09.24-06.05.06:267][755]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2026.09.24-06.05.06:269][755]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2026.09.24-06.05.06:269][755]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2026.09.24-06.05.06:269][755]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2026.09.24-06.05.06:269][755]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2026.09.24-06.05.06:269][755]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2026.09.24-06.05.06:270][755]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2026.09.24-06.05.06:270][755]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2026.09.24-06.05.06:270][755]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2026.09.24-06.05.06:270][755]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2026.09.24-06.05.06:272][755]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2026.09.24-06.05.06:273][755]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2026.09.24-06.05.06:274][755]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2026.09.24-06.05.06:275][755]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2026.09.24-06.05.06:275][755]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2026.09.24-06.05.06:278][755]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2026.09.24-06.05.06:278][755]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2026.09.24-06.05.06:279][755]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2026.09.24-06.05.06:279][755]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2026.09.24-06.05.06:280][755]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2026.09.24-06.05.06:280][755]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2026.09.24-06.05.06:280][755]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2026.09.24-06.05.06:280][755]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2026.09.24-06.05.06:280][755]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2026.09.24-06.05.06:280][755]LogModuleManager: Shutting down and abandoning module Core (248)
+[2026.09.24-06.05.06:280][755]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2026.09.24-06.05.06:281][755]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2026.09.24-06.05.06:284][755]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2026.09.24-06.05.06:285][755]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2026.09.24-06.05.06:287][755]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2026.09.24-06.05.06:296][755]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2026.09.24-06.05.06:296][755]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2026.09.24-06.05.06:296][755]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2026.09.24-06.05.06:297][755]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2026.09.24-06.05.06:298][755]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2026.09.24-06.05.06:298][755]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2026.09.24-06.05.06:298][755]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2026.09.24-06.05.06:298][755]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2026.09.24-06.05.06:300][755]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2026.09.24-06.05.06:300][755]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2026.09.24-06.05.06:301][755]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2026.09.24-06.05.06:301][755]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2026.09.24-06.05.06:303][755]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2026.09.24-06.05.06:303][755]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2026.09.24-06.05.06:307][755]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2026.09.24-06.05.06:307][755]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2026.09.24-06.05.06:308][755]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2026.09.24-06.05.06:308][755]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2026.09.24-06.05.06:309][755]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2026.09.24-06.05.06:309][755]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2026.09.24-06.05.06:309][755]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2026.09.24-06.05.06:309][755]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2026.09.24-06.05.06:309][755]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2026.09.24-06.05.06:310][755]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2026.09.24-06.05.06:311][755]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2026.09.24-06.05.06:311][755]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2026.09.24-06.05.06:312][755]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2026.09.24-06.05.06:312][755]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2026.09.24-06.05.06:312][755]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2026.09.24-06.05.06:312][755]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2026.09.24-06.05.06:312][755]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2026.09.24-06.05.06:312][755]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2026.09.24-06.05.06:312][755]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2026.09.24-06.05.06:313][755]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2026.09.24-06.05.06:336][755]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2026.09.24-06.05.06:337][755]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2026.09.24-06.05.06:337][755]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2026.09.24-06.05.06:337][755]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2026.09.24-06.05.06:337][755]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2026.09.24-06.05.06:362][755]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2026.09.24-06.05.06:362][755]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2026.09.24-06.05.06:362][755]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2026.09.24-06.05.06:362][755]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2026.09.24-06.05.06:363][755]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2026.09.24-06.05.06:363][755]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2026.09.24-06.05.06:363][755]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2026.09.24-06.05.06:363][755]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2026.09.24-06.05.06:363][755]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2026.09.24-06.05.06:373][755]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2026.09.24-06.05.06:403][755]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2026.09.24-06.05.06:403][755]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2026.09.24-06.05.06:404][755]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2026.09.24-06.05.06:404][755]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2026.09.24-06.05.06:404][755]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2026.09.24-06.05.06:409][755]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2026.09.24-06.05.06:409][755]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2026.09.24-06.05.06:409][755]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2026.09.24-06.05.06:409][755]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2026.09.24-06.05.06:410][755]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2026.09.24-06.05.06:410][755]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2026.09.24-06.05.06:411][755]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2026.09.24-06.05.06:411][755]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2026.09.24-06.05.06:411][755]LogHMD: Freeing OpenVRDLLHandle.
+[2026.09.24-06.05.06:411][755]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2026.09.24-06.05.06:411][755]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (108)
+[2026.09.24-06.05.06:411][755]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (106)
+[2026.09.24-06.05.06:412][755]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.09.24-06.05.06:413][755]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2026.09.24-06.05.06:413][755]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2026.09.24-06.05.06:413][755]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2026.09.24-06.05.06:421][755]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2026.09.24-06.05.06:421][755]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2026.09.24-06.05.06:421][755]LogModuleManager: Shutting down and abandoning module ChaosCloth (94)
+[2026.09.24-06.05.06:422][755]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (92)
+[2026.09.24-06.05.06:422][755]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (90)
+[2026.09.24-06.05.06:422][755]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (86)
+[2026.09.24-06.05.06:426][755]LogModuleManager: Shutting down and abandoning module XMPP (81)
+[2026.09.24-06.05.06:427][755]LogModuleManager: Shutting down and abandoning module WebSockets (80)
+[2026.09.24-06.05.06:435][755]LogModuleManager: Shutting down and abandoning module HTTP (77)
+[2026.09.24-06.05.06:436][755]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2026.09.24-06.05.06:436][755]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF7A586F8-4FE6-B90E-F743-A285C171F9BB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=087076ab49e7463a672f388b504bd352%7C76d20a4c82cf4939b3dc9b69c35827a3%7C205759ab-a0c1-4306-8389-295da35e3e04&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2026.09.24-06.05.06:436][755]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2026.09.24-06.05.06:445][755]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2026.09.24-06.05.06:457][755]LogModuleManager: Shutting down and abandoning module MLSDK (72)
+[2026.09.24-06.05.06:457][755]LogModuleManager: Shutting down and abandoning module MagicLeap (70)
+[2026.09.24-06.05.06:457][755]LogModuleManager: Shutting down and abandoning module WmfMedia (68)
+[2026.09.24-06.05.06:462][755]LogModuleManager: Shutting down and abandoning module Media (67)
+[2026.09.24-06.05.06:463][755]LogModuleManager: Shutting down and abandoning module MediaInfo (66)
+[2026.09.24-06.05.06:463][755]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (62)
+[2026.09.24-06.05.06:463][755]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2026.09.24-06.05.06:463][755]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2026.09.24-06.05.06:463][755]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2026.09.24-06.05.06:463][755]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2026.09.24-06.05.06:465][755]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2026.09.24-06.05.06:465][755]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2026.09.24-06.05.06:465][755]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2026.09.24-06.05.06:466][755]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2026.09.24-06.05.06:467][755]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2026.09.24-06.05.06:467][755]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2026.09.24-06.05.06:467][755]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (40)
+[2026.09.24-06.05.06:468][755]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2026.09.24-06.05.06:468][755]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2026.09.24-06.05.06:469][755]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2026.09.24-06.05.06:469][755]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2026.09.24-06.05.06:474][755]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2026.09.24-06.05.06:475][755]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2026.09.24-06.05.06:476][755]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2026.09.24-06.05.06:477][755]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2026.09.24-06.05.06:477][755]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2026.09.24-06.05.06:497][755]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2026.09.24-06.05.06:497][755]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2026.09.24-06.05.06:498][755]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2026.09.24-06.05.06:498][755]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2026.09.24-06.05.06:498][755]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2026.09.24-06.05.06:498][755]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2026.09.24-06.05.06:498][755]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2026.09.24-06.05.06:499][755]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2026.09.24-06.05.06:499][755]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2026.09.24-06.05.06:500][755]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2026.09.24-06.05.06:501][755]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2026.09.24-06.05.06:568][755]LogD3D11RHI: Shutdown
+[2026.09.24-06.05.06:568][755]LogD3D11RHI: CleanupD3DDevice
+[2026.09.24-06.05.06:623][755]LogExit: Exiting.
+[2026.09.24-06.05.06:648][755]Log file closed, 09/24/26 00:05:06
